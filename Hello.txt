@@ -3,7 +3,7 @@ Added by U2
 This is a hello file - 2
 This is a hello file - 3
 This is hello file - 3
-Example of Merge
+Example of Merge - U2VS
 Added by U1
 New Line by VS
 
