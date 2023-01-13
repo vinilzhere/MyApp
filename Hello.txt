@@ -5,4 +5,5 @@ This is a hello file - 3
 This is hello file - 3
 Example of Merge
 Added by U1
+New Line by VS
 
